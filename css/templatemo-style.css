@@ -74,6 +74,7 @@ button:focus {
 .tm-block-avatar,
 .tm-block-settings {
   max-height: none;
+  
 }
 .tm-block-avatar {
   height: auto;
@@ -431,6 +432,9 @@ input[type="checkbox"]:focus {
 }
 .tm-block-products {
   min-height: 725px;
+  margin-left: 30px;
+  
+
 }
 .tm-block-product-categories {
   min-height: 650px;
